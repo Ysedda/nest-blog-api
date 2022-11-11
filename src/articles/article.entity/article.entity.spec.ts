@@ -1,6 +1,6 @@
 import { Article } from './article.entity';
 
-describe('ArticleEntity', () => {
+describe('Article', () => {
   it('should be defined', () => {
     expect(new Article()).toBeDefined();
   });
